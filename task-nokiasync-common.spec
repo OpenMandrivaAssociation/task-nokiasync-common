@@ -1,6 +1,6 @@
 Name:		task-nokiasync-common
 Version:	1.0
-Release:	%{mkrel 1}
+Release:	%{mkrel 2}
 Summary:	Metapackage for synchronizing with Nokia phones
 Group:		Communications
 License:	GPLv2+
