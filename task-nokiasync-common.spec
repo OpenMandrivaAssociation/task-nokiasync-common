@@ -51,3 +51,15 @@ applications.
 
 %files -n task-nokiasync-gnome
 
+
+
+%changelog
+* Wed Sep 09 2009 Thierry Vignaud <tvignaud@mandriva.com> 1.0-2mdv2010.0
++ Revision: 434277
+- rebuild
+
+* Fri Mar 14 2008 Adam Williamson <awilliamson@mandriva.org> 1.0-1mdv2008.1
++ Revision: 187727
+- import task-nokiasync-common
+
+
